@@ -1,0 +1,6 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  exit
+    4  history> history_20180912
+    5  ls -l
+    6  history >history_20180912_.txt
