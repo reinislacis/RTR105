@@ -11,17 +11,17 @@
    11  history
    12  firefox $
    13  whoami
-   14  pwd
+   14  pwd     kur es esmu
    15  ls
    16  ls- l
-   17  cd
+   17  cd    parvietojas, piemeram uz home mapi
    18  cd Music/$
    19  ls
    20  cd Music/ $
    21  ls -a
    22  ls -la
-   23  pwd
-   24  cd .
+   23  pwd   parada kur es esmu
+   24  cd .   noklst majas
    25  pwd
    26  cd ..
    27  pwd
@@ -100,3 +100,19 @@
   100  man rm
   101  history
   102  history > history_20180917.txt
+
+
+pwd   kur es esmu
+cd     parvietoties uz citu mapi
+control l attira ekranu
+control shift t    papildus terminals
+cd/ home/ user    noklst majas
+cd ~    noklst majas
+mkdir Mape       taisa mapi
+rmdir Mape     izdzes mapi
+man   parada visas funcijas, ko varbt vajag
+rm -r izdzes mapi, ja vina kaut kas vel ir
+echo ''Teksts'' attelo tekstu
+cat     kas atrodas faila
+nano    var redidigeet mapi vai failu
+chmod    lauj veidot paarmainas failaa (piemeeram, ka vinam neko nevar pievienot utt)
